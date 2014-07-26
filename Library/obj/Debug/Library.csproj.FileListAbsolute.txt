@@ -1,0 +1,5 @@
+D:\Users\jim\My Code\VisualStudio\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Users\jim\My Code\VisualStudio\Library\Library\bin\Debug\Library.dll
+D:\Users\jim\My Code\VisualStudio\Library\Library\bin\Debug\Library.pdb
+D:\Users\jim\My Code\VisualStudio\Library\Library\obj\Debug\Library.dll
+D:\Users\jim\My Code\VisualStudio\Library\Library\obj\Debug\Library.pdb
